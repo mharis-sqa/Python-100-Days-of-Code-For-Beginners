@@ -28,7 +28,7 @@
 
 # weight = int(input("Enter Your Weight: "))
 
-# unit = input("(L)bs or (K)g: ")
+# unit = input('(L)bs or (K)g: ')
 
 # if unit.upper() == "L":
 #     print("Your Weight is: ", weight*0.45 ,"Kg")
